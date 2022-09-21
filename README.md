@@ -1,8 +1,8 @@
-# Project Name
+# Melanoma-CNN-Prediction
 > Outline a brief description of your project.
 
 
-## Table of Contents
+## Problem Statement
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
