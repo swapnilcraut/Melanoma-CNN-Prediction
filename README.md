@@ -22,13 +22,13 @@ Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
 
-##NOTE: 
+## NOTE: 
 
 * You don't have to use any pre-trained model using Transfer learning. All the model building processes should be based on a custom model.
 * Some of the elements introduced in the assignment are new, but proper steps have been taken to ensure smooth learning. You must learn from the base code provided and implement the same for your problem statement.
 * The model training may take time to train as you will be working with large epochs. It is advised to use GPU runtime in Google Colab.
 
-##Project Pipeline
+## Project Pipeline
 
 * Data Reading/Data Understanding → Defining the path for train and test images
 * Dataset Creation→ Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
